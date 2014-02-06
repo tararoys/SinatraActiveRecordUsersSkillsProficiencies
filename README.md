@@ -69,6 +69,25 @@ Before implementing a manual way to add new proficiencies for a user, you might 
 
 
 ----------------------------------------------------
+Adding a model and a migration to your app.
+
+1. Run command 
+
+```
+    rake generate:model NAME="Proficiency"
+```
+
+2. Then run command
+
+```
+    rake generate:migration NAME='create_proficiencies'
+```
+
+2. rake db:generate 
+
+
+
+----------------------------------------------------
 - [x] Converted project description to markdown. 
 - [x] Initialized empty github repository and pasted projec description in as the readme
 - [x] Learned how to to tables and [checkboxes](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments) in markdown
@@ -82,5 +101,5 @@ Before implementing a manual way to add new proficiencies for a user, you might 
 
 - [ ] need to learn about relative links in github for linking images in the Readme
 - [ ] based on schema, add [migration](http://guides.rubyonrails.org/migrations.html) to database.
-
+- [ ] before you add a migration, add a model.
 
