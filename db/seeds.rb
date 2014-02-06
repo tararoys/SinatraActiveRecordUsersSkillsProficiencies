@@ -19,3 +19,14 @@ design_skills.each do |skill|
 end
 
 # TODO: create associations between users and skills
+
+user1_skill1 = Proficiency.new(user_id: User.all.first.id, skill_id: Skill.all.first.id, years_experience: 4, formal_education: true);
+user1_skill1.save
+
+user1_skill_2 = Proficiency.new(user_id: User.all.first.id, skill_id: Skill.all[1].id, years_experience: 4, formal_education: true);
+user1_skill_2.save
+
+user2_skill1 = Proficiency.new(user_id: User.all[1].id, skill_id: Skill.all[0].id, years_experience: 4, formal_education: true);
+user2_skill1.save
+user2_skill2 = Proficiency.new(user_id: User.all[1].id, skill_id: Skill.all[1].id, years_experience: 4, formal_education: true);
+user2_skill2.save
