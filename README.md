@@ -39,4 +39,12 @@ What's the [right kind of association](http://guides.rubyonrails.org/association
 Validations on boolean fields [can be tricky](http://stackoverflow.com/questions/10506575/rails- database-defaults-and-model-validation-for-boolean-fields) .
 
 Before implementing a manual way to add new proficiencies for a user, you might try adding some through your seeds.rb file.
+
+
+
+----------------------------------------------------
+- [x] Converted project description to markdown. 
+- [x] Initialized empty github repository and pasted projec description in as the readme
+- [x] Learned how to to tables and checkboxes in markdown
+- [x] Now know to pull from a remote repository and push to a remote repository.  
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼
