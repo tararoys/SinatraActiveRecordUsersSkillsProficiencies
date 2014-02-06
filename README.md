@@ -81,5 +81,6 @@ Before implementing a manual way to add new proficiencies for a user, you might 
    ![](/.docs/schema.jpg)
 
 - [ ] need to learn about relative links in github for linking images in the Readme
+- [ ] based on schema, add [migration](http://guides.rubyonrails.org/migrations.html) to database.
 
 
