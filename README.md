@@ -75,8 +75,11 @@ Before implementing a manual way to add new proficiencies for a user, you might 
 - [x] Now know to pull from a remote repository and push to a remote repository.
 - [x] Boot up the app
 - [x] check what the app currently does.  It lets you sign in and view the main page.  That's it.
-- [ ] create wireframe for what pages need to be added. 
-- [ ] create database schema for proficiencies.  Proficiencies is a join table.
+- [x] create wireframe for what pages need to be added. 
+- [x] create database schema for proficiencies.  Proficiencies is a join table.
    
    ![](/.docs/schema.jpg)
+
+- [ ] need to learn about relative links in github for linking images in the Readme
+
 
