@@ -76,4 +76,5 @@ Before implementing a manual way to add new proficiencies for a user, you might 
 - [x] Boot up the app
 - [x] check what the app currently does.  It lets you sign in and view the main page.  That's it.
 - [ ] create wireframe for what pages need to be added. 
+- [ ] create database schema for proficiencies.  Proficiencies is a joing table.
 
