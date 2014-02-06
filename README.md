@@ -2,7 +2,9 @@
 
 ##Objectives
 
-For this challenge, you'll be adding some new functionality to a very basic Sinatra+ActiveRecord application. The application in its current form includes:
+For this challenge, you'll be adding some new functionality to a very basic _Sinatra+ActiveRecord_ application. The application in its current form includes:
+
+
 
 - a User model (along with sign-in and sign-up functionality) 
 - a Skill model (representing a skill that a user might have)
