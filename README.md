@@ -102,4 +102,5 @@ Adding a model and a migration to your app.
 - [ ] need to learn about relative links in github for linking images in the Readme
 - [x] based on schema, add [migration](http://guides.rubyonrails.org/migrations.html) to database.
 - [x] before you add a migration, add a model.
+- [ ] Add associations to models
 
