@@ -46,18 +46,24 @@ Before implementing a manual way to add new proficiencies for a user, you might 
 1. Open the terminal
 2. Navigate to your app
 3. Run 
-    
+
+```
     bundle 
+```
 
 4. run the following three commands to create the database and put stuff in it.
 
+```
     rake db:create
     rake db:migrate
     rake db:seed
- 
+```
+
 5.  To start the server and make the app run, type 
 
+```
     shotgun config.ru
+```
 
 6. Navigate to localhost:9393  to see the gorgeous app!
 
