@@ -2,4 +2,19 @@
   <h1>User Skills and Levels</h1>
 
   <%# TODO: display the skills and proficiency levels for each user ... %>
+   <table>
+    <tr>
+      <th>Name</th><th>Skill</th><th>Years</th><th>Formal?</th>
+    </tr>
+  <% User.all.each do |user| %>
+  <tr class="new-user">
+    <td><%=user.name%></td></tr>
+
+    <%Proficiency.where(user_id: user.id).each do |proficiency| %>
+       <tr><td></td><td><%=Skill.where(id:proficiency.skill_id).first.name %> </td><td><%=proficiency.years_experience%> </td><td><%=proficiency.formal_education%></td>
+     </tr>
+    <%end%>
+
+
+  <% end %>
 </div>

@@ -105,3 +105,4 @@ Adding a model and a migration to your app.
 - [x] Add [associations to models](http://guides.rubyonrails.org/association_basics.html)
 - [x] Add seeds to the database. 
 - [x] Create basic dummy routes to attach to the view according to drawn wireframe.
+- [ ] Create basic dummy views to show necessary pages. 
