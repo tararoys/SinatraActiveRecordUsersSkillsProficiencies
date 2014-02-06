@@ -1,4 +1,4 @@
-￼# Pt 1. Sinatra+ActiveRecord: Users, Skills, and Proficiencies Challenge
+#Pt 1. Sinatra+ActiveRecord: Users, Skills, and Proficiencies Challenge
 
 
 ##Objectives
