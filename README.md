@@ -1,5 +1,6 @@
 ￼# Pt 1. Sinatra+ActiveRecord: Users, Skills, and Proficiencies Challenge
 
+
 ##Objectives
 
 For this challenge, you'll be adding some new functionality to a very basic _Sinatra+ActiveRecord_ application. The application in its current form includes:
