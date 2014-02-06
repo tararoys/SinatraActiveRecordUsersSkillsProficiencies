@@ -72,6 +72,7 @@ Before implementing a manual way to add new proficiencies for a user, you might 
 - [x] Converted project description to markdown. 
 - [x] Initialized empty github repository and pasted projec description in as the readme
 - [x] Learned how to to tables and [checkboxes](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments) in markdown
-- [x] Now know to pull from a remote repository and push to a remote repository.  
+- [x] Now know to pull from a remote repository and push to a remote repository.
 - [x] Boot up the app
 - [ ] check what the app currently does.
+
