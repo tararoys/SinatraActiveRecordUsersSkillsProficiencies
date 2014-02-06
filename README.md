@@ -39,4 +39,39 @@ What's the [right kind of association](http://guides.rubyonrails.org/association
 Validations on boolean fields [can be tricky](http://stackoverflow.com/questions/10506575/rails- database-defaults-and-model-validation-for-boolean-fields) .
 
 Before implementing a manual way to add new proficiencies for a user, you might try adding some through your seeds.rb file.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+
+----------------------------------------------------
+#How to start the app
+
+1. Open the terminal
+2. Navigate to your app
+3. Run 
+
+```
+    bundle 
+```
+
+4. run the following three commands to create the database and put stuff in it.
+
+```
+    rake db:create
+    rake db:migrate
+    rake db:seed
+```
+
+5.  To start the server and make the app run, type 
+
+```
+    shotgun config.ru
+```
+
+6. Navigate to localhost:9393  to see the gorgeous app!
+
+
+----------------------------------------------------
+- [x] Converted project description to markdown. 
+- [x] Initialized empty github repository and pasted projec description in as the readme
+- [x] Learned how to to tables and [checkboxes](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments) in markdown
+- [x] Now know to pull from a remote repository and push to a remote repository.  
+- [x] Boot up the app
+- [ ] check what the app currently does.
