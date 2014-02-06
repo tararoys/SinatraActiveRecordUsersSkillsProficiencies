@@ -100,6 +100,6 @@ Adding a model and a migration to your app.
    ![](/.docs/schema.jpg)
 
 - [ ] need to learn about relative links in github for linking images in the Readme
-- [ ] based on schema, add [migration](http://guides.rubyonrails.org/migrations.html) to database.
-- [ ] before you add a migration, add a model.
+- [x] based on schema, add [migration](http://guides.rubyonrails.org/migrations.html) to database.
+- [x] before you add a migration, add a model.
 
