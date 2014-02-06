@@ -103,4 +103,4 @@ Adding a model and a migration to your app.
 - [x] based on schema, add [migration](http://guides.rubyonrails.org/migrations.html) to database.
 - [x] before you add a migration, add a model.
 - [x] Add [associations to models](http://guides.rubyonrails.org/association_basics.html)
-
+- [ ] Create basic dummy routes to attach to the view according to drawn wireframe.
